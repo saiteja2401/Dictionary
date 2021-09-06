@@ -1,0 +1,4 @@
+punkt
+wordnet
+maxent_ne_chunker
+words
